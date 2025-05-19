@@ -1,3 +1,3 @@
 # Duomen-vizualizavimas
 
-Atsisiųskite html failą.
+Norėdami pamatyti interaktyvius žemėlapius, atsisiųskite HTML failą.
